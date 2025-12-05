@@ -1,0 +1,5 @@
+{
+  "name": "ResuMatch AI",
+  "description": "An intelligent Resume Builder and ATS Scanner powered by Gemini 2.5 Flash. Create professional resumes and optimize them for job descriptions with AI-driven scoring and suggestions.",
+  "requestFramePermissions": []
+}
